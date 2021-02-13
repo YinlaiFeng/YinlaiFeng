@@ -46,7 +46,7 @@
 
   ### 📊 GitHub Stats
 <a>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinlaiFeng&layout=compact)
 </a>
