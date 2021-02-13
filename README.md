@@ -45,8 +45,9 @@
 
 
   ### 📊 GitHub Stats
-<a>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinlaiFeng&layout=compact)
+<a href="https://github.com/YinlaiFeng/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true&theme=dracula" alt="风音濑's github stats" />
+</a>
+<a href="https://github.com/YinlaiFeng/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinlaiFeng&langs_count=8)](https://github.com/YinlaiFeng/github-readme-stats)" />
 </a>
