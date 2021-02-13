@@ -46,8 +46,7 @@
 
   ### 📊 GitHub Stats
 <a>
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true&theme=dracula)
-</a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinlaiFeng&layout=compact)
 </a>
