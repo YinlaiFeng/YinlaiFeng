@@ -45,9 +45,9 @@
 
 
   ### 📊 GitHub Stats
-  <a href='https://github.com/YinlaiFeng/github-stats-transparent'>
+<a>
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true&theme=dracula)
+</a>
 
-  ![Stats Overview](https://raw.githubusercontent.com/YinlaiFeng/github-stats-transparent/output/generated/overview.svg)
-  ![Most Used Languages](https://raw.githubusercontent.com/YinlaiFeng/github-stats-transparent/output/generated/languages.svg)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=YinlaiFeng&show_icons=true)
-   </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
