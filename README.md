@@ -26,6 +26,15 @@
   
   <br>
   
+  ***
+  
+  💻**Studying & Research:**
+  
+  	- 💻Game development
+  	- 💻Computer Graphics 
+  	- 💻Shader cartoon rendering
+  
+  
 ### Languages &Tools:
   <a href="https://unity.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="32px"/> </a> 
 <a href="https://www.google.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="32px"/> </a> 
