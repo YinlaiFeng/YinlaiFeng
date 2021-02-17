@@ -1,10 +1,10 @@
 - ## Hey 👋, I'm 风音濑(YinLai)
   <a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/linkedin.svg" height='18px'/></a>
   <a href='https://yinlaifeng.github.io/'><img align='left' alt="Github" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/github.svg" height='18px'/></a>
-  <a href='https://www.bilibili.com'><img alt="BiliBili" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/BILIBILI_LOGO.svg" height='18px'/></a>
-   <a href='https://www.artstation.com'><img alt="BiliBili" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/artstation.svg" height='18px'/></a>
-   <a href='https://www.youtube.com'><img alt="BiliBili" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/youtube.svg" height='18px'/></a>
-   <a href='https://www.weibo.com'><img alt="BiliBili" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/%E5%BE%AE%E5%8D%9A.svg" height='18px'/></a>
+  <a href='https://www.bilibili.com'><img alt="bilibili" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/BILIBILI_LOGO.svg" height='18px'/></a>
+   <a href='https://www.artstation.com/yvanguo'><img alt="Artstation" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/artstation.svg" height='18px'/></a>
+   <a href='https://www.youtube.com'><img alt="Youtube" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/youtube.svg" height='18px'/></a>
+   <a href='https://www.weibo.com'><img alt="Weibo" src="https://github.com/YinlaiFeng/YinlaiFeng/blob/main/Assets/%E5%BE%AE%E5%8D%9A.svg" height='18px'/></a>
 
   我是一个狂热技术爱好者，热爱生活与技术,追求自由的人生,当前技能方向:(计算机图形学, 技术艺术家 ,图形学程序员 , CG艺术家)。我喜欢探索新的技术堆栈💻，并利用它们来构建酷的东西🛠️.📈
   <br/>
