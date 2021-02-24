@@ -24,6 +24,7 @@
   - 🌍	Dream World Travel.
   - ☀️	Live hard and love the world.
   - 💻 	学无止境,学而不思则罔,思而不学则殆.
+  - C++
   
   <br>
   
